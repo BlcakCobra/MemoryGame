@@ -1,0 +1,25 @@
+.GamePage{
+    width: 100%;
+    height: 97svh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.BoardProportions{
+    width: 30%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.LevelBox{
+    width: 100%;
+    height: 12.5%;
+
+    border: 1px solid black;
+    background-color: aliceblue;
+}
